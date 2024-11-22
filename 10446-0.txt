@@ -3218,7 +3218,7 @@ ready? Men weighed?”
 “Ah! Just as well that I should see it done. Seen you before,
 Craggs. Saw you fight your second battle against Willox. You had
 beaten him once, but he came back on you. What does the indicator
-say--163lbs.--two off for the kit--161lbs. Now, my lad, you jump. My
+say?--163lbs.--two off for the kit--161lbs. Now, my lad, you jump. My
 goodness, what colours are you wearing?”
 
 “The Anonymi Cricket Club.”
@@ -6906,7 +6906,7 @@ of dealing.
 
 
 
-The New Catacomb
+THE NEW CATACOMB
 
 
 “Look here, Burger,” said Kennedy, “I do wish that you would confide in
@@ -8278,4 +8278,3 @@ back to the house.
 me, but they could not run across salt water, and Alphonse Lacour was
 receiving the congratulations of Monsieur Talleyrand and the First
 Consul before ever his pursuers had got as far as Dover.”
-
